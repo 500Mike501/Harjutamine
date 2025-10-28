@@ -1,2 +1,3 @@
 GitHub on koolitööks vajalik platform ja seda kasutavad õpilased.
 Edaspidi kasutan oma GitHubi võtit. Nii saan järgmisel korral kasutada koois oma GitHubi.
+GitHubi teenuse asutasid Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Chason. GitHubi teenus tehti avalikkusele kättesaadavaks 2008. aastal.
